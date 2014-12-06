@@ -1,3 +1,5 @@
+.DS_Store
+
 # History files
 .Rhistory
 
@@ -9,3 +11,4 @@
 
 # RStudio files
 .Rproj.user/
+.Rproj.user
