@@ -15,10 +15,11 @@ Food Expenditure and Income - Repeated Sampling
 
 \source{
 http://www.principlesofeconometrics.com/poe4/data/dat/table2_2.dat
+
+http://www.principlesofeconometrics.com/poe4/data/def/table2_2.def
 }
 \references{
 Principles of Econometrics, Fourth Edition
 
 by R. Carter Hill, William E. Griffiths and Guay C. Lim
 }
-\keyword{datasets}

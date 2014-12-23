@@ -15,10 +15,11 @@ Food Expenditure and Income
 
 \source{
 http://www.principlesofeconometrics.com/poe4/data/dat/food.dat
+
+http://www.principlesofeconometrics.com/poe4/data/def/food.def
 }
 \references{
 Principles of Econometrics, Fourth Edition
 
 by R. Carter Hill, William E. Griffiths and Guay C. Lim
 }
-\keyword{datasets}
